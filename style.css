@@ -1,0 +1,19 @@
+.jumbotron.img{
+    width: 200px;
+    height: 200px;
+}
+.jumbotron{
+    text-align: center;
+}
+
+.judul{
+        text-align: center;
+
+
+}
+
+.judul hr{
+    width: 200px;
+    border: solid darkgray;
+
+}
